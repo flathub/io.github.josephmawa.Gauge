@@ -1,7 +1,7 @@
 {
   "id": "io.github.josephmawa.Gauge",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "48",
+  "runtime-version": "50",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.Gauge",
   "finish-args": [
@@ -9,17 +9,6 @@
     "--socket=fallback-x11",
     "--device=dri",
     "--socket=wayland"
-  ],
-  "cleanup": [
-    "/include",
-    "/lib/pkgconfig",
-    "/man",
-    "/share/doc",
-    "/share/gtk-doc",
-    "/share/man",
-    "/share/pkgconfig",
-    "*.la",
-    "*.a"
   ],
   "modules": [
     {
@@ -30,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Gauge",
-          "tag": "v0.1.4",
-          "commit": "22d32e167698786ea6df241a31ea4944894a2e60"
+          "tag": "v0.1.5",
+          "commit": "a69d754886ef19c789b43c2f6686d1ac7adbf135"
         }
       ]
     }
