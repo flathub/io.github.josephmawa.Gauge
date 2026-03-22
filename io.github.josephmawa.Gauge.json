@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Gauge",
-          "tag": "v0.1.4",
-          "commit": "22d32e167698786ea6df241a31ea4944894a2e60"
+          "tag": "v0.1.5",
+          "commit": "a69d754886ef19c789b43c2f6686d1ac7adbf135"
         }
       ]
     }
