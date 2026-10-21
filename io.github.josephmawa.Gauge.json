@@ -1,7 +1,7 @@
 {
   "id": "io.github.josephmawa.Gauge",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.Gauge",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Gauge",
-          "tag": "v0.1.8",
-          "commit": "4c9864c7044da24c24c468f4c82a066fdc6c5e4f"
+          "tag": "v0.1.9",
+          "commit": "c270604f3fe07f53a8a8d7a5d84391abf2b084fa"
         }
       ]
     }
